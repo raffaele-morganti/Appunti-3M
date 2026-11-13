@@ -12,6 +12,6 @@ Selezione | Iterazione
 
 Funzioni | Vettori | Algoritmi
 ---|---|---
-[funzioni](Parte2/funzioni.md)<br>[passaggio per valore](Parte2/passaggio_valore.md)<br>[puntatori](Parte2/puntatori.md)<br>[passaggio per indirizzo](Parte2/passaggio_indirizzo.md) | | 
+[funzioni](Parte2/funzioni.md)<br>[passaggio per valore](Parte2/passaggio_valore.md)<br>[puntatori](Parte2/puntatori.md)<br>[passaggio per indirizzo](Parte2/passaggio_indirizzo.md) | [vettori](Parte2/vettori.md) | 
 [esercizi](Parte2/es-funzioni.md) | | 
  

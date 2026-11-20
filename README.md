@@ -10,8 +10,8 @@ Selezione | Iterazione
 
 ## Seconda parte
 
-Funzioni | Vettori | Algoritmi
----|---|---
-[funzioni](Parte2/funzioni.md)<br>[passaggio per valore](Parte2/passaggio_valore.md)<br>[puntatori](Parte2/puntatori.md)<br>[passaggio per indirizzo](Parte2/passaggio_indirizzo.md) | [vettori](Parte2/vettori.md) | 
-[esercizi](Parte2/es-funzioni.md) | | 
+Funzioni | Vettori
+---|---
+[funzioni](Parte2/funzioni.md)<br>[passaggio per valore](Parte2/passaggio_valore.md)<br>[puntatori](Parte2/puntatori.md)<br>[passaggio per indirizzo](Parte2/passaggio_indirizzo.md) | [vettori](Parte2/vettori.md)<br>[vettori e funzioni](Parte2/vettori_funzioni.md)<br>[stringhe](Parte2/stringhe.md)
+[esercizi](Parte2/es-funzioni.md) | [esercizi](Parte2/es-vettori.md)
  
